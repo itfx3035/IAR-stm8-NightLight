@@ -1,4 +1,4 @@
-# stm8
+# IAR-stm8-NightLight
 
 <b>NightLight</b><br>
 IAR project for STM8S103F3P6 mcu.
